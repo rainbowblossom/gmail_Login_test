@@ -1,0 +1,36 @@
+2022-03-07 13:03:931 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:10 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (e97fdf2a23d65477dad4ab426c5ebbae)] -> id: identifierId]
+2022-03-07 13:03:91 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (e97fdf2a23d65477dad4ab426c5ebbae)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:158 INFO  GmailSignInPage :49 - Enter password in password field[[ChromeDriver: chrome on WINDOWS (e97fdf2a23d65477dad4ab426c5ebbae)] -> css selector: input[name='password']]
+2022-03-07 13:03:219 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (e97fdf2a23d65477dad4ab426c5ebbae)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:430 INFO  GmailPage :19 - verify gmail logo[[ChromeDriver: chrome on WINDOWS (e97fdf2a23d65477dad4ab426c5ebbae)] -> xpath: //img[@class='gb_wc']]
+2022-03-07 13:03:763 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:134 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (ab456cc5adf70a30b6d205bb733678d0)] -> id: identifierId]
+2022-03-07 13:03:203 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (ab456cc5adf70a30b6d205bb733678d0)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:251 INFO  GmailSignInPage :49 - Enter password in password field[[ChromeDriver: chrome on WINDOWS (ab456cc5adf70a30b6d205bb733678d0)] -> css selector: input[name='password']]
+2022-03-07 13:03:312 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (ab456cc5adf70a30b6d205bb733678d0)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:343 INFO  GmailSignInPage :52 - Verify error message[[ChromeDriver: chrome on WINDOWS (ab456cc5adf70a30b6d205bb733678d0)] -> xpath: //div[@class='OyEIQ uSvLId']//span]
+2022-03-07 13:03:307 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:966 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (7c47754ef0de3d8c8c87a52b2142c102)] -> id: identifierId]
+2022-03-07 13:03:39 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (7c47754ef0de3d8c8c87a52b2142c102)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:108 INFO  GmailSignInPage :49 - Enter password in password field[[ChromeDriver: chrome on WINDOWS (7c47754ef0de3d8c8c87a52b2142c102)] -> css selector: input[name='password']]
+2022-03-07 13:03:166 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (7c47754ef0de3d8c8c87a52b2142c102)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:630 INFO  GmailPage :19 - verify gmail logo[[ChromeDriver: chrome on WINDOWS (7c47754ef0de3d8c8c87a52b2142c102)] -> xpath: //img[@class='gb_wc']]
+2022-03-07 13:03:313 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:995 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (2b8ba041028702c4f488e9260b65bfc0)] -> id: identifierId]
+2022-03-07 13:03:61 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (2b8ba041028702c4f488e9260b65bfc0)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:110 INFO  GmailSignInPage :49 - Enter password in password field[[ChromeDriver: chrome on WINDOWS (2b8ba041028702c4f488e9260b65bfc0)] -> css selector: input[name='password']]
+2022-03-07 13:03:167 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (2b8ba041028702c4f488e9260b65bfc0)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:186 INFO  GmailSignInPage :52 - Verify error message[[ChromeDriver: chrome on WINDOWS (2b8ba041028702c4f488e9260b65bfc0)] -> xpath: //div[@class='OyEIQ uSvLId']//span]
+2022-03-07 13:03:859 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:306 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (22f851e72305bb22bef7c00c26d67a2c)] -> id: identifierId]
+2022-03-07 13:03:373 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (22f851e72305bb22bef7c00c26d67a2c)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:385 INFO  GmailSignInPage :57 - Verify error message[[ChromeDriver: chrome on WINDOWS (22f851e72305bb22bef7c00c26d67a2c)] -> css selector: .o6cuMc]
+2022-03-07 13:03:53 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:782 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (1997020b8b7d9414bb973940ad35eb2d)] -> id: identifierId]
+2022-03-07 13:03:850 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (1997020b8b7d9414bb973940ad35eb2d)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:872 INFO  GmailSignInPage :57 - Verify error message[[ChromeDriver: chrome on WINDOWS (1997020b8b7d9414bb973940ad35eb2d)] -> css selector: .o6cuMc]
+2022-03-07 13:03:566 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-03-07 13:03:76 INFO  GmailSignInPage :41 - Enter username in username field[[ChromeDriver: chrome on WINDOWS (7cd5e824ca95e457b7cd01e51cba0212)] -> id: identifierId]
+2022-03-07 13:03:138 INFO  GmailSignInPage :45 - Click on the next button[[ChromeDriver: chrome on WINDOWS (7cd5e824ca95e457b7cd01e51cba0212)] -> xpath: //span[normalize-space()='Next']]
+2022-03-07 13:03:147 INFO  GmailSignInPage :57 - Verify error message[[ChromeDriver: chrome on WINDOWS (7cd5e824ca95e457b7cd01e51cba0212)] -> css selector: .o6cuMc]

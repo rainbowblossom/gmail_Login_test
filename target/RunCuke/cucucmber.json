@@ -1,0 +1,134 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4443403800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "I should login with valid credentials successfully",
+        "description": "",
+        "id": "gmail-login-functionality;i-should-login-with-valid-credentials-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 655836600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 194700400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username \"testqa5556@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "testqa5556@gmail.com",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterUsername(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 74085600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on next button",
+            "match": {
+              "location": "LoginSteps.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3063651400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter password \"Abcd4567\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Abcd4567",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 68095200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on next button",
+            "match": {
+              "location": "LoginSteps.iClickOnNextButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 89600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am able to login gmail account",
+            "match": {
+              "location": "LoginSteps.iAmAbleToLoginGmailAccount()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4224063100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify that gmail logo is displayed",
+            "match": {
+              "location": "LoginSteps.iVerifyThatGmailLogoIsDisplayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Gmail login functionality",
+    "description": "As a user i want to login in gmail account",
+    "id": "gmail-login-functionality",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
